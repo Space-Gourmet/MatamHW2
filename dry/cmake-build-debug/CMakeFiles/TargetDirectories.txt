@@ -1,0 +1,3 @@
+C:/Users/david/MatamProjects/MatamHW2/HW2_2425B/dry/cmake-build-debug/CMakeFiles/dry.dir
+C:/Users/david/MatamProjects/MatamHW2/HW2_2425B/dry/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/david/MatamProjects/MatamHW2/HW2_2425B/dry/cmake-build-debug/CMakeFiles/rebuild_cache.dir
