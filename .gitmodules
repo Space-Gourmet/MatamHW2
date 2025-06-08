@@ -1,0 +1,6 @@
+[submodule "wet/TechnionMatam"]
+	path = wet/TechnionMatam
+	url = https://github.com/PNone/TechnionMatam.git
+[submodule "wet/MatamGenericTester"]
+	path = wet/MatamGenericTester
+	url = https://github.com/PNone/MatamGenericTester.git
