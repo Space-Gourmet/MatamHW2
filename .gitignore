@@ -1,0 +1,29 @@
+
+dry/cmake-build-debug/
+wet/cmake-build-debug/
+**/CMakeFiles/
+CMakeCache.txt
+build/
+*.o
+*.obj
+*.exe
+*.log
+wet/tests.cpp
+wet/test.expected
+wet/Utilities.h
+wet/Utilities.cpp
+
+# ignore binaries and test output
+wet/Mvidia
+wet/MvidiaTest
+wet/test.out
+wet/test_results.html
+
+# ignore CMake/IDE build dirs
+dry/cmake-build-debug/
+wet/cmake-build-debug/
+**/CMakeFiles/
+CMakeCache.txt
+
+# ignore the generic tester submodule
+wet/MatamGenericTester/
